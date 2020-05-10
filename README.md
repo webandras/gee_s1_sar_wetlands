@@ -33,3 +33,8 @@ var date = require('users/gulandras90/inlandExcessWater:process/inputDate');
 ```
 
 Also change lines 14 and 17 in `main1` script. In `main2` script, change lines 24 and 27 (paths to your radar images saved in your Assets folder by the main1 script), and lines 33, 41, 44 and 47. In `process/inputDate`, change line 4.
+
+## Links 
+[Open the scripts in Google Earth Engine app](https://code.earthengine.google.com/?accept_repo=users/gulandras90/inlandExcessWater)
+*You only have reading rights.*
+
