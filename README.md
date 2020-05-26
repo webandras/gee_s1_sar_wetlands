@@ -1,7 +1,7 @@
 # gee_s1_sar_wetlands
 Supplementary Material 1 to: [*Gulácsi, A.; Kovács, F. Sentinel-1-Imagery-Based High-Resolution Water Cover Detection on Wetlands, Aided by Google Earth Engine. 2020.*](https://www.mdpi.com/2072-4292/12/10/1614)
 
-Published in May 18, 2018
+Published in May 18, 2020
 
 Gulácsi, A.; Kovács, F. Sentinel-1-Imagery-Based High-Resolution Water Cover Detection on Wetlands, Aided by Google Earth Engine. Remote Sens. 2020, 12, 1614. https://www.mdpi.com/2072-4292/12/10/1614
 DOI: 10.3390/rs12101614
